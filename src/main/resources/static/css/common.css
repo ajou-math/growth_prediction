@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: 'Noto Sans KR', sans-serif;
+}
+
+header{
+    background-color: #a0a0a0;
+    height : 100px;
+}
+
+.navigator {
+    display : flex;
+}
+
+.navigator a{
+	display : inline-block;
+}
+.navigator_menu { 
+    margin-top : 0px;
+    margin-left : 50px;
+    color : white;
+    min-width: 100px;
+    height: 100px;
+    text-align: center;
+    line-height: 100px;
+
+}
+
+.navigator_menu a {
+    min-width : 100px;
+    height : 100px;
+    display : block;
+    text-decoration: none;
+}
+
+
+.footer_text {
+	width : 130px;
+	color : #a0a0a0;
+	font-size : 15px;
+	margin : 0 auto;
+}

@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-GrowthPredictionApplication<growth_prediction>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.example.growth_prediction.GrowthPredictionApplication",
+            "projectName": "growth_prediction",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
